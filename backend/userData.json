@@ -1,0 +1,13 @@
+{
+    "age": 24,
+    "weight_kg": 70,
+    "height_cm": 178,
+    "experience_level": "beginner",
+    "goal": "muscle gain",
+    "preferences": {
+      "workout_location": "gym",
+      "days_per_week": 7,
+      "available_equipment": ["dumbbells", "barbell", "bench", "pull-up bar"],
+      "injuries": ["none"]
+    }
+  }
