@@ -23,7 +23,7 @@ const Home = () => {
           
           <div className='hero-title-wrapper'>
             <h1 className="hero-title">BE Better!</h1>
-            <a href="Login" className="starting-link">Get Started</a>
+            <a href="GettingStarted" className="starting-link">Get Started</a>
             </div>
           </div>
         </header>
